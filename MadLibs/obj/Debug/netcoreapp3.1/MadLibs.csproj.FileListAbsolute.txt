@@ -1,0 +1,12 @@
+/Users/rixiobarrios/Projects/MadLibs/MadLibs/bin/Debug/netcoreapp3.1/MadLibs.deps.json
+/Users/rixiobarrios/Projects/MadLibs/MadLibs/bin/Debug/netcoreapp3.1/MadLibs.runtimeconfig.json
+/Users/rixiobarrios/Projects/MadLibs/MadLibs/bin/Debug/netcoreapp3.1/MadLibs.runtimeconfig.dev.json
+/Users/rixiobarrios/Projects/MadLibs/MadLibs/bin/Debug/netcoreapp3.1/MadLibs.dll
+/Users/rixiobarrios/Projects/MadLibs/MadLibs/bin/Debug/netcoreapp3.1/MadLibs.pdb
+/Users/rixiobarrios/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.csprojAssemblyReference.cache
+/Users/rixiobarrios/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.AssemblyInfoInputs.cache
+/Users/rixiobarrios/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.AssemblyInfo.cs
+/Users/rixiobarrios/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.csproj.CoreCompileInputs.cache
+/Users/rixiobarrios/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.dll
+/Users/rixiobarrios/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.pdb
+/Users/rixiobarrios/Projects/MadLibs/MadLibs/obj/Debug/netcoreapp3.1/MadLibs.genruntimeconfig.cache
